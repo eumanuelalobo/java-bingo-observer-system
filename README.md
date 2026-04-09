@@ -14,7 +14,7 @@ A principal característica técnica deste projeto é o uso do **Padrão Observe
 
 ## 📂 Documentação
 O detalhamento da arquitetura, incluindo diagramas de classe e a fundamentação teórica sobre baixo acoplamento, pode ser consultado no documento abaixo:
-* [📄 Relatório Técnico - Arquitetura de Software (PDF)](./Jogo_de_Bingo_Java_Observer.pdf)
+* [📄 Relatório Técnico - Arquitetura de Software (PDF)]([./Jogo_de_Bingo_Java_Observer.pdf](https://github.com/eumanuelalobo/java-bingo-observer-system/blob/ae04bacc731a06dbf3e00ee791f330756e88deba/Jogo%20de%20Bingo%20em%20Java_%20Arquitetura%20Observer%20e%20Otimiza%C3%A7%C3%A3o%20com%20Lean.pdf))
 
 ---
 **Desenvolvido por:** Manuela Lobo  
